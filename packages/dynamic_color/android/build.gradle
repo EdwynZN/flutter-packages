@@ -28,7 +28,7 @@ android {
     namespace 'io.material.plugins.dynamic_color'
 
     compileSdkVersion 34
-t
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
